@@ -1,0 +1,34 @@
+_id: req_16437c97243e40a0b544d8c0f2ba5449
+type: Request
+parentId: fld_acb4bd3e6f324e508e9db073d7be708d
+modified: 1653540467897
+created: 1653452584659
+url: "{{ _.BASE_URL }}/auth/login"
+name: Login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"email":"farhadsahil88@gmail.com",
+    	"password":"admin1234"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_8cacead07ca24770ab0a2d3f82a4ab7b
+  - id: pair_4299201c916f480cbc24876159df565b
+    name: X-Requested-With
+    value: XMLHttpRequest
+    description: ""
+authentication: {}
+metaSortKey: -1653452584659
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,14 @@
+_id: env_ab4b9d1fbcd042c18a9faa2fff37a9e3
+type: Environment
+parentId: env_361a5f7c6ccb155fabed007d24259e4ace4af38c
+modified: 1653452783056
+created: 1653284005222
+name: cms
+data:
+  BASE_URL: http://127.0.0.1:8000/api/v1
+dataPropertyOrder:
+  "&":
+    - BASE_URL
+color: "#821717"
+isPrivate: false
+metaSortKey: 1653284005222

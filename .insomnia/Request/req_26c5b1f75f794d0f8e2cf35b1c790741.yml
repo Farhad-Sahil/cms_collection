@@ -1,0 +1,80 @@
+_id: req_26c5b1f75f794d0f8e2cf35b1c790741
+type: Request
+parentId: fld_12a6df3d594d485fa56f3e3d40e54961
+modified: 1653480203905
+created: 1653479642103
+url: "{{BASE_URL}}/banners/"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_18da40705bad4b46990e59f452a5ec88
+      name: title
+      value: name
+      description: ""
+      disabled: false
+    - id: pair_17e1d360cf2c458485e7c92a6e905667
+      name: category
+      value: anything
+      description: ""
+    - id: pair_0dfb51a428574c468bfc35545ad4358b
+      name: short_description
+      value: anything
+      description: ""
+    - id: pair_f1cee9ba04e04e7f850b6ba45c083a25
+      name: long_description
+      value: anything
+      description: ""
+    - id: pair_4365969a1328435a9c843e6fc6c97b7e
+      name: banner1
+      value: ""
+      description: ""
+      type: file
+      fileName: /home/eng-farhad-sahil/Pictures/cms/1.png
+    - id: pair_db30d011d8de4f45aa8e45b8cee578ce
+      name: banner2
+      value: ""
+      description: ""
+      type: file
+      fileName: /home/eng-farhad-sahil/Pictures/cms/2.jpeg
+    - id: pair_7b522f7dd9524b5b8fa2fcf81a4abd76
+      name: banner3
+      value: ""
+      description: ""
+      type: file
+      fileName: /home/eng-farhad-sahil/Pictures/cms/3.jpeg
+    - id: pair_b3eaadced18f45e79c186604e9394e0d
+      name: banner4
+      value: ""
+      description: ""
+      type: file
+      fileName: /home/eng-farhad-sahil/Pictures/cms/4.jpeg
+    - id: pair_3f6e02c0d916401b81903d4c615a0a78
+      name: publish
+      value: "1"
+      description: ""
+    - id: pair_0a8ef42d16df4b45b214fb7868292853
+      name: sorting
+      value: "1"
+      description: ""
+parameters: []
+headers:
+  - id: pair_1fd381af4243475884162d16da6e787a
+    name: Content-Type
+    value: multipart/form-data
+    description: ""
+  - id: pair_8882023f55a34127b74dc92a786ee930
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1653284119533
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

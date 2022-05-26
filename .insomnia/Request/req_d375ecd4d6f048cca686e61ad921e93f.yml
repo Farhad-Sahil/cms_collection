@@ -1,0 +1,85 @@
+_id: req_d375ecd4d6f048cca686e61ad921e93f
+type: Request
+parentId: fld_8039f52ab7434a3cb0d7eeb772c037c4
+modified: 1653396147639
+created: 1653388076758
+url: "{{BASE_URL}}/blogs-categories/"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - name: title
+      value: anything
+      id: pair_6c9026065b7b4a359f31a7d3f815ee91
+      disabled: false
+    - id: pair_d936471007244d699d18920be045efc5
+      name: slug
+      value: anything
+      description: ""
+    - id: pair_b1b1140dfbd4499fb1546cc67b4eaa00
+      name: parent_page
+      value: anything
+      description: ""
+    - id: pair_10c0ef74d7d14871840a13c522217111
+      name: short_description
+      value: anything
+      description: ""
+    - id: pair_f3387b194f4445bb81fc9e5f6bafdc6d
+      name: long_description
+      value: anything
+      description: ""
+    - id: pair_93f9e86ee196455897b58e44053c56fc
+      name: icon
+      value: anything
+      description: ""
+    - id: pair_b17d82b58708485ca29fd6ac4e2a2d45
+      name: thumbnail
+      value: anything
+      description: ""
+    - id: pair_23f3b9608f1140828a71e2c595cb7bba
+      name: banner
+      value: anything
+      description: ""
+    - id: pair_d2cc64af76e041969ded2b6ef8e70b18
+      name: seo_title
+      value: anything
+      description: ""
+    - id: pair_9381acbd2c3a42bea6090976e551bf23
+      name: seo_description
+      value: anything
+      description: ""
+    - id: pair_62554260bed1414b8a5f7ed0aa94fd45
+      name: seo_keyword
+      value: anything
+      description: ""
+    - id: pair_5b4c4d52c5ec43449a83a36785554cdf
+      name: publish
+      value: "1"
+      description: ""
+    - id: pair_9000dd50d3a4432ba533ce41a15cac5a
+      name: sorting
+      value: anything
+      description: ""
+parameters: []
+headers:
+  - id: pair_1fd381af4243475884162d16da6e787a
+    name: Content-Type
+    value: multipart/form-data
+    description: ""
+    disabled: false
+  - id: pair_5b97c8b236ea4c5582c3be80a5cf4234
+    name: Accept
+    value: application/json
+    description: ""
+    disabled: false
+authentication: {}
+metaSortKey: -1653363119944.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

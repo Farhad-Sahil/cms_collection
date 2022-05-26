@@ -1,0 +1,26 @@
+_id: req_a54f0ef26f68422fb8ad6ad4c20315f7
+type: Request
+parentId: fld_acb4bd3e6f324e508e9db073d7be708d
+modified: 1653481875316
+created: 1653473993416
+url: "{{ _.BASE_URL }}/auth/loggedIn-user"
+name: LoggedIn-user
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_8dc79e51bfb844d0a3348b658c42838a
+    name: Authorization
+    value: Bearer
+      eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiNGIzMGI4Y2Y5ZjA3ZGFmZDZhODkzOGM4NmYyNjA4MGE3N2U1Y2Q3M2IxZDgyMmM1NzY0YWM1ZTg1YTY1Y2JiYzM2YTk3YzM2NTIxYThjYzEiLCJpYXQiOjE2NTM0ODE4MzguMTAzODcsIm5iZiI6MTY1MzQ4MTgzOC4xMDM4NzgsImV4cCI6MTY4NTAxNzgzOC4wODk0MzUsInN1YiI6IjMiLCJzY29wZXMiOltdfQ.CxNOkQH5fe6JwbpvJRkWELBTub_MZuRaIZ9MaB2rNSATGUf-K-YxrFFukCOLbJhit4oJ2m767k14ldX8Y52e0IyAqXAd2fgFurvzrb7INiEasePjR1CjaAqnIyCi_GCFc8f7J1eciiXGFZU-YyCyBxe8ypf0evcBM1vn3WEBbOlz_cc9l8LfFw_APoKDjpm_QnWeFgMV_u3X52fVKTBfq6QIBEix9HurDWYb1iupDh55LoQoVbE4cy8Ia5enZiaIsT3OTdc9mq5uWy6C4nizTqBq0gZBtjuIYbTxCYVW29JmXRczKbwQSSWXFKDN76XLvlP-jSlXxCKvsXItR24tLgdVsUCKvSTW2_AHRcSJyWEwpXux55jc5kKXUlUxC7vrh2vNXVmR0YFvRAQpv5oPK-mM041azhNx8SYAlk8PGU-06XPDL5vJvRQqKYizbHNAA7PqHCzWa_KTyp0l0GNooxQAFpWLPHc0K8Pl1dGaaPGbom3NeVMkomLMCJSXDhuDDYXfJKcxW0iTbwLf_0bb9RpwgVVR9vZid7DtVgCiIX3YQJxvzUI_Zae0QlkiIhe02hmJfBueZV3HeeuoeDigxPrlo4JKek0dGVUd72LcDFcyuA_vw6Nv9ArrxRuqrMbv1ckSZXTUCcqXQ5seyQlqrRBNSELrHGnGiTA61tJYtik
+    description: ""
+authentication: {}
+metaSortKey: -1653473993416
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

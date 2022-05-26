@@ -1,0 +1,132 @@
+_id: req_55ec1fbf1c6141819650e156c1f344f7
+type: Request
+parentId: fld_c222a97292734ed6967f4b8fc459892e
+modified: 1653481187880
+created: 1653480818271
+url: "{{BASE_URL}}/products/"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_18da40705bad4b46990e59f452a5ec88
+      name: title
+      value: aything
+      description: ""
+      disabled: false
+    - id: pair_17e1d360cf2c458485e7c92a6e905667
+      name: article_model
+      value: anything
+      description: ""
+    - id: pair_0dfb51a428574c468bfc35545ad4358b
+      name: category
+      value: anything
+      description: ""
+    - id: pair_f1cee9ba04e04e7f850b6ba45c083a25
+      name: short_description
+      value: anything
+      description: ""
+    - id: pair_4365969a1328435a9c843e6fc6c97b7e
+      name: long_description
+      value: anything
+      description: ""
+      type: text
+      multiline: false
+      fileName: /home/eng-farhad-sahil/Pictures/cms/1.png
+      disabled: false
+    - id: pair_db30d011d8de4f45aa8e45b8cee578ce
+      name: tags
+      value: anything
+      description: ""
+      type: text
+      multiline: false
+      fileName: /home/eng-farhad-sahil/Pictures/cms/2.jpeg
+    - id: pair_7b522f7dd9524b5b8fa2fcf81a4abd76
+      name: image
+      value: ""
+      description: ""
+      type: file
+      fileName: /home/eng-farhad-sahil/Pictures/cms/3.jpeg
+    - id: pair_b3eaadced18f45e79c186604e9394e0d
+      name: price
+      value: "1"
+      description: ""
+      type: text
+      multiline: false
+      fileName: /home/eng-farhad-sahil/Pictures/cms/4.jpeg
+    - id: pair_3f6e02c0d916401b81903d4c615a0a78
+      name: old_pirce
+      value: "2"
+      description: ""
+    - id: pair_0a8ef42d16df4b45b214fb7868292853
+      name: quantity
+      value: "1"
+      description: ""
+    - id: pair_f5a921e2322a48058dfdc89df810d02c
+      name: weight
+      value: "0"
+      description: ""
+    - id: pair_593fa26ef8f8468f9fb8cd57477f039b
+      name: allocate_stock
+      value: "1"
+      description: ""
+    - id: pair_c4e1ed0407674d17a00f6fee00ee2308
+      name: heading
+      value: anything
+      description: ""
+    - id: pair_9a22e4949abb449cbb9dcc3a81ac38dd
+      name: description
+      value: anything
+      description: ""
+    - id: pair_b31b0fa06b56473db29299739d451339
+      name: esam_router
+      value: anything
+      description: ""
+    - id: pair_c2ff6b4e2e0c431ab94b82a64c949724
+      name: ultra_esam
+      value: anything
+      description: ""
+    - id: pair_70a8b8e07887438ba3e17ea72b9c34a6
+      name: related_products
+      value: anything
+      description: ""
+    - id: pair_e5b0791007d749879d0df8e20ad646d4
+      name: seo_title
+      value: anything
+      description: ""
+    - id: pair_919a2daa4ddb4be1a014fbf4b960f71e
+      name: seo_description
+      value: anything
+      description: ""
+    - id: pair_8affb11e37ce46c68b81a0019d92cb7a
+      name: publish
+      value: "1"
+      description: ""
+    - id: pair_008fbfd488cb4d4787dcd03a94652b5c
+      name: featured
+      value: "1"
+      description: ""
+    - id: pair_cd7283def6f448da8c39875814353182
+      name: sorting
+      value: "1"
+      description: ""
+parameters: []
+headers:
+  - id: pair_1fd381af4243475884162d16da6e787a
+    name: Content-Type
+    value: multipart/form-data
+    description: ""
+  - id: pair_8882023f55a34127b74dc92a786ee930
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1653284119533
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

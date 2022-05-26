@@ -1,0 +1,26 @@
+_id: req_e809c36b8d804784a20843065b6df572
+type: Request
+parentId: fld_acb4bd3e6f324e508e9db073d7be708d
+modified: 1653481843687
+created: 1653473891697
+url: "{{ _.BASE_URL }}/auth/logout"
+name: Logout
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - id: pair_a19cf562319b4b6aa83a48ae37f874cd
+    name: Authorization
+    value: Bearer
+      eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiOWEwOGY1MjA0MjRjNjI5MjEwN2M0N2JmMGM1YWY4NDJmOTA5MGFkZTUzN2Y3ZGU3NTAxZjliNzBlNDc1YzY1OTIwMGQzOWE1N2JjMzIwM2EiLCJpYXQiOjE2NTM0NzQwMjkuMDgyOTkyLCJuYmYiOjE2NTM0NzQwMjkuMDgzMDAxLCJleHAiOjE2ODUwMTAwMjkuMDc0OTExLCJzdWIiOiIzIiwic2NvcGVzIjpbXX0.wWpja0JOufRkFlnptYVRvxw24LyKnYB3fTce6P7hWUyCGvCPBdvPqdXJd0Jbg9P2Ym5VKF4D33gX51Xg0-FfNYT86M3P6n4ajQhRXgBWA434y5gXts3Wj64y4TpVJrFR9W9S4BcgS754XjaRCfOCB29dcKlkacFUtFD_pKVrlqOAmAzjEJhR-b0ib5AJnNy61TtRV29b4ZNPBifkNP2ZbA49bk05xQVYpU_vtHoov9zOAOZqCSDeWJ4wDzaeZ_etVQjn3a3bzsKxHt5pK72uSZGf9y_VLJKo3C_Yoq7ZX95A7Y1NAnlWi79hVveanIMniDLYIaU6RFJpw0-B0NR_6_fNp_M5kHTB-7_zO2WFClKyDSpmoaxY1ilODPtGi20K67DqmWxS4zXWmmf-zmlqWRknzP2hIHDJxyXfLX_3IzKdL1ZVE-OJcmnxPRNIX4ag-rtshjpkxnIQ1hr3Mind1ZE7WRkao9A-bYYc11FLJsCY3eOaccNEWDyx3otnGSAaEEcvzeUQ-TS00CKHQ-yLQAeRLmjZ0dQfxzkMradOcZMylhIzF3JlSUMJRh35bvq-q-qKKNGtjzDFJ-qHCRKRGQqKvxg-YLXB7-sMI80to9C98AlrFpKtP8IVKSa677_wbM0t0oeffn8iTiUPHdLwc5oWSYvQEof7Wq8-0wgif0o
+    description: ""
+authentication: {}
+metaSortKey: -1653473891697
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

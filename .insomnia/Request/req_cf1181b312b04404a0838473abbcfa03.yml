@@ -1,0 +1,34 @@
+_id: req_cf1181b312b04404a0838473abbcfa03
+type: Request
+parentId: fld_acb4bd3e6f324e508e9db073d7be708d
+modified: 1653473560587
+created: 1653452602697
+url: "{{ _.BASE_URL }}/auth/login"
+name: ForgotPassword
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_c4be2b40837641a1a69327452cb230c1
+      name: email
+      value: farhadsahil88@gmail.com
+      description: ""
+    - id: pair_eb828291405f499da44946239e29cf05
+      name: password
+      value: admin12
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: multipart/form-data
+    id: pair_a7b9bd86f7af4a8ead46f026b44a3801
+authentication: {}
+metaSortKey: -1653452602697
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,64 @@
+_id: req_37d324ec8a354275b8595262c1ea8794
+type: Request
+parentId: fld_35d8a475e9fd482ea6372480a55f5842
+modified: 1653481604636
+created: 1653481525172
+url: "{{BASE_URL}}/variations/"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_18da40705bad4b46990e59f452a5ec88
+      name: title
+      value: name
+      description: ""
+      disabled: false
+    - id: pair_17e1d360cf2c458485e7c92a6e905667
+      name: helper_name
+      value: anything
+      description: ""
+    - id: pair_0dfb51a428574c468bfc35545ad4358b
+      name: type
+      value: anything
+      description: ""
+    - id: pair_f1cee9ba04e04e7f850b6ba45c083a25
+      name: required
+      value: "1"
+      description: ""
+    - id: pair_3f6e02c0d916401b81903d4c615a0a78
+      name: price_effect
+      value: "1"
+      description: ""
+    - id: pair_0a8ef42d16df4b45b214fb7868292853
+      name: is_color
+      value: "1"
+      description: ""
+    - id: pair_2fab66875b464ae4a8375dd5e7a20687
+      name: publish
+      value: "1"
+      description: ""
+    - id: pair_be54830e0cd843e98e3eef067ded73c7
+      name: sorting
+      value: "1"
+      description: ""
+parameters: []
+headers:
+  - id: pair_1fd381af4243475884162d16da6e787a
+    name: Content-Type
+    value: multipart/form-data
+    description: ""
+  - id: pair_8882023f55a34127b74dc92a786ee930
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1653284119533
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

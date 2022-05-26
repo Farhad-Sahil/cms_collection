@@ -1,0 +1,63 @@
+_id: req_f37ca5b390504e75a18b1bce45a84ab3
+type: Request
+parentId: fld_8fa38e8ff85042a18ce6aef140e48d0a
+modified: 1653479645845
+created: 1653477474371
+url: "{{BASE_URL}}/galleries/"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_18da40705bad4b46990e59f452a5ec88
+      name: title
+      value: name
+      description: ""
+      disabled: false
+    - id: pair_3ce270695bed4aeb905e32e20a876cc9
+      name: type
+      value: anything
+      description: ""
+      disabled: false
+    - id: pair_85da9e4f828c49fcb5eb848b3b588a5d
+      name: category
+      value: anything
+      description: ""
+    - id: pair_8d8e71a2090d456bb49de089f51b33fd
+      name: thumbnail
+      value: anything
+      description: ""
+    - id: pair_6d5caa1ed29c436d8b639969f9f064f9
+      name: file
+      value: anything
+      description: ""
+      type: file
+      fileName: /home/eng-farhad-sahil/Pictures/Wallpapers/cpp-program-square-shape-using-for-loop1.GIF
+    - id: pair_4a0d801a9e0c4f4eb24a7daa6e7496c5
+      name: publish
+      value: "1"
+      description: ""
+    - id: pair_b3098c434d4a41ca86dad1c6e9ef7a77
+      name: sorting
+      value: "1"
+      description: ""
+parameters: []
+headers:
+  - id: pair_1fd381af4243475884162d16da6e787a
+    name: Content-Type
+    value: multipart/form-data
+    description: ""
+  - id: pair_8882023f55a34127b74dc92a786ee930
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1653284119533
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

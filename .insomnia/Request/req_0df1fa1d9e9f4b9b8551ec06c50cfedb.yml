@@ -1,0 +1,35 @@
+_id: req_0df1fa1d9e9f4b9b8551ec06c50cfedb
+type: Request
+parentId: fld_acb4bd3e6f324e508e9db073d7be708d
+modified: 1653483337490
+created: 1653473592358
+url: "{{ _.BASE_URL }}/auth/signup"
+name: Signup
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name":"name",
+    	"email":"farhadsahil88@gmail.com",
+    	"password":"admin12"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_45370798acf845c5afd902d530309cdf
+  - id: pair_a9bab01dcfe7421681e85621be2877a8
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1653473592358
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,36 @@
+_id: req_16bea7647daa417fadcaec92a55e3f9c
+type: Request
+parentId: fld_acb4bd3e6f324e508e9db073d7be708d
+modified: 1653483333094
+created: 1653474896894
+url: "{{ _.BASE_URL }}/auth/password/reset"
+name: Reset-Password
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    "token":"39928e5ea9fa6ee7836cf8400ac34b02be87e9ae4988fbd1ef395ee098403909",
+    "email":"farhadsahil88@gmail.com",
+    "password":"admin1234",
+    "password_confirmation":"admin1234"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_96d1484174d3495b845369190eaa6097
+  - id: pair_d0a9fc144aab4563b76d9494dad1e1b2
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1653474896894
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

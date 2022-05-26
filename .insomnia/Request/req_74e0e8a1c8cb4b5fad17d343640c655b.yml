@@ -1,0 +1,25 @@
+_id: req_74e0e8a1c8cb4b5fad17d343640c655b
+type: Request
+parentId: fld_2f11d2ea9d1f437881dbb4fcad1cfc4c
+modified: 1653451901110
+created: 1653451875835
+url: "{{BASE_URL}}/news-events-categories"
+name: Retrieve
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_a06b337fc4734147ae92a221d2f80741
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1653363119982.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

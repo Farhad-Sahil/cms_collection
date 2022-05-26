@@ -1,0 +1,94 @@
+_id: req_18d2273172c5461e82832faa572457d5
+type: Request
+parentId: fld_1df7fcebb9204c338992323b06b9fc2d
+modified: 1653452567567
+created: 1653451875830
+url: "{{BASE_URL}}/news/2"
+name: Update
+description: ""
+method: PUT
+body:
+  mimeType: multipart/form-data
+  params:
+    - id: pair_18da40705bad4b46990e59f452a5ec88
+      name: title
+      value: name chnaged
+      description: ""
+      disabled: false
+    - id: pair_3ce270695bed4aeb905e32e20a876cc9
+      name: slug
+      value: new slug
+      description: ""
+    - id: pair_63d9b061df7742d7918382a33577cda3
+      name: helper_name
+      value: anything
+      description: ""
+    - id: pair_d9e142d64c8840e9a3afcf5f39bc3e0e
+      name: parent_page
+      value: anything
+      description: ""
+    - id: pair_ddee278f30d44cce86912fae615f3c86
+      name: short_description
+      value: anything
+      description: ""
+    - id: pair_fec658383cfa427b84cc8711eb896905
+      name: long_description
+      value: anything
+      description: ""
+    - id: pair_03e28c73c19a4754ad45b7d17a6394fe
+      name: tags
+      value: anything
+      description: ""
+    - id: pair_5c9ce42b4a6a4f1fa07a2212e18f4b93
+      name: icon
+      value: anything
+      description: ""
+      type: file
+      fileName: /home/eng-farhad-sahil/Pictures/Wallpapers/cpp-program-square-shape-using-for-loop1.GIF
+    - id: pair_55961748a0234164be844f7193eea56d
+      name: thumbnail
+      value: anything
+      description: ""
+    - id: pair_9fa45f1249fd45be9053018bd97de3ff
+      name: banner
+      value: anything
+      description: ""
+    - id: pair_d90f0d7a2a8a4bee8cb3e795a2f1a4a5
+      name: seo_title
+      value: anything
+      description: ""
+    - id: pair_9d262af3f9fe4223b17b35587d1f3f78
+      name: seo_description
+      value: anything
+      description: ""
+    - id: pair_8a44065be512484e93af8a2c93883a53
+      name: seo_keyword
+      value: anything
+      description: ""
+    - id: pair_2fd45adf67db4be5a7a9c89fbd93ec99
+      name: publish
+      value: "0"
+      description: ""
+    - id: pair_a7aefb11e3c14c9d894ddbdaa5906ed1
+      name: sorting
+      value: "1"
+      description: ""
+parameters: []
+headers:
+  - id: pair_1fd381af4243475884162d16da6e787a
+    name: Content-Type
+    value: multipart/form-data
+    description: ""
+  - id: pair_01e19f9edf1d475d8cb2ee797f10e96b
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1653363119969.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
